@@ -1,2 +1,2 @@
 # LSTM-examples
-LSTM Examples
+LSTM Examples for Sequence Predictions
